@@ -141,10 +141,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lib\file_stream.cpp" />
+    <ClCompile Include="lib\memory.cpp" />
     <ClCompile Include="user\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib\file_stream.h" />
+    <ClInclude Include="lib\memory.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />

@@ -21,9 +21,15 @@
     <ClCompile Include="user\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lib\memory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lib\file_stream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\memory.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
